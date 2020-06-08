@@ -17,7 +17,7 @@ This project was created using the following techonologies:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻 Project
 
 Ecoleta is a marketplace that helps people to find waste collection points.
 
@@ -27,4 +27,4 @@ You can see the project through [this link](https://www.figma.com/file/9TlOcj6l7
 
 ---
 
-Made with ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Rocketseat :wave: [Join in our community!](https://discordapp.com/invite/gCRAFhc)
