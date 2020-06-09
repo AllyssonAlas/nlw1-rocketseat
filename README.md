@@ -10,7 +10,7 @@
 
 ## 🚀 Technologies
 
-This project was created using the following techonologies:
+This project was created using the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
